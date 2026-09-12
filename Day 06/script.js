@@ -14,7 +14,7 @@ btn.addEventListener("click", function () {
     }, c * 10);
 
     setTimeout(function () {
-        clearInterval(intervalId);-
+        clearInterval(intervalId);
         btn.innerHTML = "Downloaded!!";
         btn.style.opacity = "0.5";
         console.log(`Download Time: ${c} secs..`);
