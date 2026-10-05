@@ -12,8 +12,8 @@
 - Conditional Rendering
 - useState
 - Two Way Binding
-- Localstorage(Optional), Sass
 - Axios(CSR & SSR)
+- Localstorage(Optional), Sass
 - useEffect
 - Routing
 - React Router DOM
