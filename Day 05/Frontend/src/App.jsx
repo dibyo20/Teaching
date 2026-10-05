@@ -8,11 +8,10 @@ async function getData() {
     console.log(err);
   }
 }
-getData();
 
 const App = () => {
   return (
-    <div>Shagun</div>
+    <button onClick={getData}>Get Response</button>
   )
 }
 
